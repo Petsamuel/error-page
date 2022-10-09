@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://petsamuel.github.io/error-page/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/Petsamuel/error-page">
       Solution
     </a>
     <span> | </span>
@@ -129,6 +129,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Medium [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Medium [Post-link](https://{your-web-site-link})
+- GitHub [Petsamuel](https://github.com/Petsamuel/)
+- Twitter [@Bieefilled](https://twitter.com/Bieefilled)

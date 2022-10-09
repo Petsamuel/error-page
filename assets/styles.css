@@ -11,7 +11,7 @@
 }
 
 :root {
-    --Scarecrow: url("/assets/images/Scarecrow.png");
+    --Scarecrow: url("./images/Scarecrow.png");
     --font1: "Inconsolata";
     --line-height: 36px;
     --letter-spacing: -0.035em;
