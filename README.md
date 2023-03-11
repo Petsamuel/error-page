@@ -129,6 +129,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Medium [Post-link](https://{your-web-site-link})
+<!-- Medium [Post-link](https://{your-web-site-link}) -->
 - GitHub [Petsamuel](https://github.com/Petsamuel/)
 - Twitter [@Bieefilled](https://twitter.com/Bieefilled)
